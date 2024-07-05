@@ -1,0 +1,21 @@
+.fila1{
+    background-color: violet;
+    display: flex;
+    justify-content: center;
+    gap: 300px;
+
+}
+.fila2{
+    background-color: aquamarine;
+    display: flex;
+    justify-content:space-around;
+}
+.fila3{
+    background-color:violet;
+    display: flex;
+    justify-content:space-around;
+}
+.todo{
+    margin: 100px 250px 100px 250px;
+    padding: 300px;
+}

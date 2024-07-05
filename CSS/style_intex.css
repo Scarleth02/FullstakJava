@@ -1,0 +1,28 @@
+.clase1{
+    box-sizing: border-box;
+    background-color: magenta;
+    display: inline-block;
+    margin: 30px ;
+    width: 200px;
+    height: 100px;
+    border: 2px solid blue;
+    text-align: center;
+}
+.clase2{
+    background-color: mediumaquamarine;
+    display: inline-block;
+    margin: 30px ;
+    width: 200px;
+    height: 100px;
+    border: 2px solid blue;
+    text-align: center;
+}
+.clase3{
+    background-color: beige;
+    display: inline-block;
+    margin: 30px ;
+    width: 200px;
+    height: 100px;
+    border: 2px solid blue;
+    text-align: center;
+}
